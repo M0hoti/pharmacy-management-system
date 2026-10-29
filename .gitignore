@@ -1,0 +1,20 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment/config secrets
+.env
+
+# Editor folders
+.vscode/
+.idea/
+
+# Dependencies
+node_modules/
+vendor/
+
+# XAMPP temporary files
+*.tmp
